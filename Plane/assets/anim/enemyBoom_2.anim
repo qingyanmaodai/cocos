@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "enemyBoom_2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1,
+  "sample": 4,
+  "speed": 2,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "fc4ea23c-90be-49bf-ae50-0025aa114253"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "6b44e757-41d8-4509-82aa-5516e7e3c259"
+            }
+          },
+          {
+            "frame": 0.5,
+            "value": {
+              "__uuid__": "262bacde-0773-4c8d-b218-99f4492786ab"
+            }
+          },
+          {
+            "frame": 0.75,
+            "value": {
+              "__uuid__": "eedd1f87-fe4b-43d0-a173-0fde9bc23473"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 1,
+      "func": "over",
+      "params": []
+    }
+  ]
+}
